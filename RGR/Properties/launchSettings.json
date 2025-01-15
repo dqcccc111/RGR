@@ -2,9 +2,6 @@
   "profiles": {
     "RGR": {
       "commandName": "Project"
-    },
-    "Container (Dockerfile)": {
-      "commandName": "Docker"
     }
   }
 }
